@@ -1,0 +1,10 @@
+/* header */
+header {
+  background-color: orange;
+}
+
+.salles{
+  background-image: url("../imgs/salles.jpg");
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
